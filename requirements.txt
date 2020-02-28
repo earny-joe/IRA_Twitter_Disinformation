@@ -1,0 +1,7 @@
+selenium==3.141.0
+pandas==1.0.1
+streamlit==0.55.0
+python-dateutil<=2.8.0
+torch==1.4.0
+fastai==1.0.60
+
